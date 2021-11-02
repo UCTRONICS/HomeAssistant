@@ -24,7 +24,7 @@
     "gpio": true,
     "stage": "experimental",
     "full_access": true,
-    "url": "https://github.com/garethcheyne/HomeAssistant/tree/main/UCTronics_OLED_Display_Python",
+    "url": "https://github.com/UCTRONICS/HomeAssistant/tree/main/UCTronics_OLED_Display_Python",
     "boot": "manual",
     "options": {
         "Show_Splash_Screen": true,
