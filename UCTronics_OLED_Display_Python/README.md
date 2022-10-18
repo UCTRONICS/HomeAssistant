@@ -1,6 +1,7 @@
 # UCTRONICS OLED Display - Python Version
 
 Enables the the OLED display for UCTRONICS Pi 4 Rack Module.
+Rnissen Edits. 
 
 ### NB, This addon will take some time to initially load as it has to build some python libraries. 
 
