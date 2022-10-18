@@ -2,7 +2,7 @@
     "image": "homeassistant/armhf-base-raspbian",
     "shadow_repository": "ghcr.io/home-assistant",
     "build_from": {
-        "armhf": "tianon/raspbian:buster-slim"
+        "armhf": "navikey/raspbian-bullseye"
     },
     "args": {
         "BASHIO_VERSION": "0.13.1",
