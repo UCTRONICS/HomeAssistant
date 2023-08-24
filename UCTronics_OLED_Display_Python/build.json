@@ -2,7 +2,7 @@
     "image": "homeassistant/armhf-base-raspbian",
     "shadow_repository": "ghcr.io/home-assistant",
     "build_from": {
-        "armhf": "navikey/raspbian-bullseye"
+        "armhf": "raspbian/jessie"
     },
     "args": {
         "BASHIO_VERSION": "0.13.1",
