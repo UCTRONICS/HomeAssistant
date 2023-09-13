@@ -1,9 +1,7 @@
 {
     "image": "homeassistant/armhf-base-raspbian",
     "shadow_repository": "ghcr.io/home-assistant",
-    "build_from": {
-        "armhf": "tianon/raspbian:bullseye-slim"
-    },
+    "build_from": "homeassistant/amd64-base",
     "args": {
         "BASHIO_VERSION": "0.13.1",
         "TEMPIO_VERSION": "2021.05.0",
